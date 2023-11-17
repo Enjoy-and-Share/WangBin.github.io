@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Shanghai, China"
-  employer         : "Shanghai BAOLONG Automotive Corporation"
+  employer         : #"Shanghai BAOLONG Automotive Corporation"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wangbin@chinabaolong.net"
