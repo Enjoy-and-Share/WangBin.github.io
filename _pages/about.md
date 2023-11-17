@@ -25,6 +25,7 @@ Dr. Wang has served as technical reviewer for the IEEE Transactions on Vehicular
 1. Bin Wang, Junya Shang, Zhichao Liu. One novel system and strategy for emergency braking control level, CN114802231A, 2021
 2. Xiaomu Ding, Bin Wang, et al. One novel Target selection strategy for Cut In scenario. CN114084133A, 2020
 3. Minggang Yan Fei Liu, et al. One novel strategy of preventing accidental accelerator pedal application. CN109305166A, 2019. 4. Bin Wang, Fang En et al. One novel Anti-lock system and corresponding control strategy, CN107303820A, 2017
+4. Bin Wang, Fang En et al. One novel Anti-lock system and corresponding control strategy, CN107303820A, 2017
 5. Bin Wang, Yan Li et al. Angular speed estimation and fault diagnosis based on an adaptive high-order
 sliding-mode observer. Proc. IMechE. Part D: Journal of Automobile Engineering, 2016
 6. Bin Wang, Xuexun Guo, et al. A study of an electric parking brake system for emergency braking, International
