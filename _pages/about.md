@@ -21,4 +21,20 @@ Academic Research
 ======
 Dr. Wang has served as technical reviewer for the IEEE Transactions on Vehicular Technology, Journal of the Franklin Institute, SAE International, IET Intelligent Transport Systems and Journal of Automobile Engineering. Dr. Wang is the author or co-author of more than 25 peer-reviewed publications including 13 journal articles and 12 patents.
 
+**Recent Publications**
+1. Bin Wang, Junya Shang, Zhichao Liu. One novel system and strategy for emergency braking control level, CN114802231A, 2021
+2. Xiaomu Ding, Bin Wang, et al. One novel Target selection strategy for Cut In scenario. CN114084133A, 2020
+3. Minggang Yan Fei Liu, et al. One novel strategy of preventing accidental accelerator pedal application. CN109305166A, 2019. 4. Bin Wang, Fang En et al. One novel Anti-lock system and corresponding control strategy, CN107303820A, 2017
+5. Bin Wang, Yan Li et al. Angular speed estimation and fault diagnosis based on an adaptive high-order
+sliding-mode observer. Proc. IMechE. Part D: Journal of Automobile Engineering, 2016
+6. Bin Wang, Xuexun Guo, et al. A study of an electric parking brake system for emergency braking, International
+Journal of vehicle design, vol.67, No.4, 2015
+7. Bin Wang, Xuexun Guo et al. Modeling and control of an integrated electric parking brake system. Journal of the
+Franklin Institute. vol.352, 2015
+8. Bin Wang, Xiaoyu Huang, Junmin Wang et al. A robust wheel slip ratio control design combining hydraulic and
+regenerative braking systems for in-wheel-motors-driven EVs. Journal of the Franklin Institute, vol.352, 2015
+9. Bin Wang, Xuexun Guo et al. Slide Mode Control for Integrated Electric Parking Brake System, Mathematical
+Problems in Engineering,
+
+
 [Email](mailto:wangbin@chinabaolong.net)
