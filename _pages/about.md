@@ -21,6 +21,4 @@ Academic Research
 ======
 Dr. Wang has served as technical reviewer for the IEEE Transactions on Vehicular Technology, Journal of the Franklin Institute, SAE International, IET Intelligent Transport Systems and Journal of Automobile Engineering. Dr. Wang is the author or co-author of more than 25 peer-reviewed publications including 13 journal articles and 12 patents.
 
-You can find his CV here: [Bin Wang's Curriculum Vitae](resume.pdf).
-
 [Email](mailto:wangbin@chinabaolong.net)
