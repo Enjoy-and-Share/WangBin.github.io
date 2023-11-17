@@ -34,7 +34,7 @@ Franklin Institute. vol.352, 2015
 8. Bin Wang, Xiaoyu Huang, Junmin Wang et al. A robust wheel slip ratio control design combining hydraulic and
 regenerative braking systems for in-wheel-motors-driven EVs. Journal of the Franklin Institute, vol.352, 2015
 9. Bin Wang, Xuexun Guo et al. Slide Mode Control for Integrated Electric Parking Brake System, Mathematical
-Problems in Engineering,
+Problems in Engineering, vol. 2013
 
 
 [Email](mailto:wangbin@chinabaolong.net)
